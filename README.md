@@ -9,7 +9,7 @@
 #### I write blogposts about Android and Machine Learning ⚙️ in Medium to share my little knowledge to help others.
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=Younes-Charfaoui&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Younes-Charfaoui&show_icons=true">
 </p>
 
 #### 📥 &nbsp; If you have any questions don’t hesitate to post it or contact me on:
