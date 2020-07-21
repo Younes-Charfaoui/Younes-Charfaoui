@@ -8,7 +8,11 @@
 
 #### I write blogposts about Android and Machine Learning ⚙️ in Medium to share my little knowledge to help others.
 
-![Younes Charfaoui Github Stats](https://github-readme-stats.vercel.app/api?username=Younes-Charfaoui&show_icons=true)
+
+<div style="width:800px; margin:0 auto;">
+        ![Younes Charfaoui Github Stats](https://github-readme-stats.vercel.app/api?username=Younes-Charfaoui&show_icons=true)
+ </div>
+
 
 #### 📥 &nbsp; If you have any questions don’t hesitate to post it or contact me on:
 
