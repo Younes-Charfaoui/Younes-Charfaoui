@@ -1,28 +1,16 @@
 # Younes Charfaoui [![Visited](http://hits.dwyl.com/Younes-Charfaoui/Younes-Charfaoui.svg)](http://hits.dwyl.com/Younes-Charfaoui/Younes-Charfaoui)
 
-#### Hey there, I am Charfaoui Younes, 23 years old, a Software Engineer 👨‍🎓 from Algeria, Author 📄 , and Speaker. 🗣
+Hey there, I am Charfaoui Younes, 23 years old, a Software Engineer 👨‍🎓 from Algeria, Author 📄 , and Speaker. 🗣
 
-#### I am a Google Certified Android Developer, and I am also a Github Campus Expert, Previous Developer Student Clubs Lead, and Machine Learning Passionate 👨‍🔬.
+I am a Google Certified Android Developer, and I am also a Github Campus Expert, Previous Developer Student Clubs Lead, and Machine Learning Passionate 👨‍🔬.
 
-#### I am always passionate about learning 📚 something new about new technologies, so I am a Constant Learner 🚴.
+I am always passionate about learning 📚 something new about new technologies, so I am a Constant Learner 🚴.
 
-#### I write blogposts about Android and Machine Learning ⚙️ in Medium to share my little knowledge to help others.
+I write blogposts about Android and Machine Learning ⚙️ in Medium to share my little knowledge to help others.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Younes-Charfaoui&show_icons=true">
 </p>
-
-<body>
-  <script src="https://profile.codersrank.io/widget/widget.js"></script>
-  
-  
-<codersrank-widget
-  username="younes-charfaoui"
-  layout="vertical"
-  badges="2"
-></codersrank-widget>
-</body>
-
 
 #### 📥 &nbsp; If you have any questions don’t hesitate to post it or contact me on:
 
