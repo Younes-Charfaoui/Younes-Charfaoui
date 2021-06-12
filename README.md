@@ -1,4 +1,4 @@
-# Younes Charfaoui [![Visited](http://hits.dwyl.com/Younes-Charfaoui/Younes-Charfaoui.svg)](http://hits.dwyl.com/Younes-Charfaoui/Younes-Charfaoui)
+# Younes Charfaoui
 
 Hey there, I am Charfaoui Younes, 23 years old, a Software Engineer 👨‍🎓 from Algeria, Author 📄 , and Speaker. 🗣
 
@@ -7,10 +7,6 @@ I am a Google Certified Android Developer, and I am also a Github Campus Expert,
 I am always passionate about learning 📚 something new about new technologies, so I am a Constant Learner 🚴.
 
 I write blogposts about Android and Machine Learning ⚙️ in Medium to share my little knowledge to help others.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Younes-Charfaoui&show_icons=true">
-</p>
 
 #### 📥 &nbsp; If you have any questions don’t hesitate to post it or contact me on:
 
